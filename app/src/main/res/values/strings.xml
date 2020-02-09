@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyCardApp</string>
+    <string name="dog_name">Stefan</string>
+    <string name="pet_the_dog">Pogłaskaj Stefana</string>
 </resources>
